@@ -1,7 +1,7 @@
 import math
 import numpy as np
 import scipy.io.wavfile
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 PATH = "sinesweep.wav"
 Fs = 48000
